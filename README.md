@@ -1,2 +1,2 @@
 # Pytorch_Resource
-Different tutorials of PyTorch
+Code resource related to PyTorch
